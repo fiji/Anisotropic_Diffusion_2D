@@ -24,6 +24,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/Anisotropic_Diffusion_2D</connection>
+		<developerConnection>scm:git:git@github.com:fiji/Anisotropic_Diffusion_2D</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/Anisotropic_Diffusion_2D</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>
