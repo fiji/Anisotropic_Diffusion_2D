@@ -24,6 +24,11 @@
 		</dependency>
 	</dependencies>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/Anisotropic_Diffusion_2D/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Anisotropic_Diffusion_2D</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Anisotropic_Diffusion_2D</developerConnection>
