@@ -12,12 +12,19 @@ package anisotropic_diffusion;
 
 
 /* importing standard Java API Files and ImageJ packages */
-import ij.*;
+import ij.IJ;
+import ij.ImagePlus;
+import ij.ImageStack;
+import ij.gui.GenericDialog;
+import ij.gui.Toolbar;
 import ij.plugin.filter.PlugInFilter;
-import ij.process.*;
-import java.awt.*;
-import ij.gui.*;
-import java.util.*; // for time measuring
+import ij.process.ColorProcessor;
+import ij.process.ImageProcessor;
+
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Rectangle;
+import java.util.Date; // for time measuring
 
 public class Anisotropic_Diffusion_2D implements PlugInFilter
 {
