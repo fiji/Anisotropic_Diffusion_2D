@@ -18,6 +18,38 @@
 	<name>plugins/Anisotropic_Diffusion_2D.jar</name>
 	<description></description>
 
+	<developers>
+		<developer>
+			<id>ctrueden</id>
+			<name>Curtis Rueden</name>
+			<url>http://imagej.net/User:Rueden</url>
+			<roles>
+				<role>maintainer</role>
+			</roles>
+		</developer>
+	</developers>
+	<contributors>
+		<contributor>
+			<name>Vladimir Pilny</name>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
+			<name>Jiri Janacek</name>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
+			<name>Johannes Schindelin</name>
+			<url>http://imagej.net/User:Schindelin</url>
+			<properties><id>dscho</id></properties>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
+			<name>Ignacio Arganda-Carreras</name>
+			<url>http://imagej.net/User:Iarganda</url>
+			<properties><id>iarganda</id></properties>
+		</contributor>
+	</contributors>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/Anisotropic_Diffusion_2D</connection>
 		<developerConnection>scm:git:git@github.com:fiji/Anisotropic_Diffusion_2D</developerConnection>
