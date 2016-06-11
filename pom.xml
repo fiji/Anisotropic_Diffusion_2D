@@ -17,6 +17,8 @@
 
 	<name>plugins/Anisotropic_Diffusion_2D.jar</name>
 	<description></description>
+	<url>http://imagej.net/Anisotropic_Diffusion_2D</url>
+	<inceptionYear>2005</inceptionYear>
 
 	<developers>
 		<developer>
