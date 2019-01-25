@@ -15,7 +15,7 @@
 
 	<name>Anisotropic Diffusion 2D</name>
 	<description>Anisotropic Diffusion 2D plugin for Fiji.</description>
-	<url>http://imagej.net/Anisotropic_Diffusion_2D</url>
+	<url>https://imagej.net/Anisotropic_Diffusion_2D</url>
 	<inceptionYear>2005</inceptionYear>
 	<organization>
 		<name>Fiji</name>
@@ -33,7 +33,7 @@
 		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
-			<url>http://imagej.net/User:Rueden</url>
+			<url>https://imagej.net/User:Rueden</url>
 			<roles>
 				<role>maintainer</role>
 			</roles>
@@ -50,13 +50,13 @@
 		</contributor>
 		<contributor>
 			<name>Johannes Schindelin</name>
-			<url>http://imagej.net/User:Schindelin</url>
+			<url>https://imagej.net/User:Schindelin</url>
 			<roles><role>founder</role></roles>
 			<properties><id>dscho</id></properties>
 		</contributor>
 		<contributor>
 			<name>Ignacio Arganda-Carreras</name>
-			<url>http://imagej.net/User:Iarganda</url>
+			<url>https://imagej.net/User:Iarganda</url>
 			<properties><id>iarganda</id></properties>
 		</contributor>
 	</contributors>
@@ -96,7 +96,7 @@
 	<repositories>
 		<repository>
 			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
+			<url>https://maven.imagej.net/content/groups/public</url>
 		</repository>
 	</repositories>
 
